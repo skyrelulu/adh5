@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <hello></hello>
+    haha测试发布一个静态页面
   </div>
 </template>
 
